@@ -1,0 +1,23 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Generated files
+/build
+/dist
+
+# Logs
+/logs
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.suo
+*.ntvs*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
